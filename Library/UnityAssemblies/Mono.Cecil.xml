@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>Mono.Cecil</name>
+	</assembly>
+	<members>
+		<member name="T:Mono.Cecil.PointerType">
+			<summary>Pointer types.</summary>
+		</member>
+	</members>
+</doc>
